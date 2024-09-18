@@ -3,5 +3,10 @@
     "name": "Hola",
     "age": 16,
     "occupation": "Miguel"
+  },
+  {
+    "name": "Andres",
+    "age": 66,
+    "occupation": "Groseda"
   }
 ]
