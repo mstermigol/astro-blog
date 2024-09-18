@@ -42,6 +42,8 @@ content:
           label: Age
           type: image
           required: true
+          options:
+            path: src/assets/images
         - name: occupation
           label: Occupation
           type: string
