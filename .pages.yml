@@ -28,3 +28,15 @@ content:
       - { name: layout, type: string, hidden: true, default: layouts/base.njk }
       - { name: title, label: Title, type: string }
       - { name: body, label: Body, type: rich-text, options: { input: public/assets, output: /assets } }
+  - name: Test
+    label: Test json
+    type: file
+    path: src/pages/hola.ts
+    fields: 
+    - { name: HeroSlides, label: Slides, type: object, fields: [
+          { name: bgImage, label: Background Image, type: string },
+          { name: title, label: Title, type: string },
+          { name: description, label: Description, type: string },
+          { name: ctaText, label: Call to Action Text, type: string }
+        ]
+      }
