@@ -1,17 +1,17 @@
 [
   {
     "name": "Hola",
-    "Image": "src/AstroPaper-v4.png",
+    "Image": "src/assets/images/AstroPaper-v4.png",
     "occupation": "Miguel"
   },
   {
     "name": "Camila",
-    "Image": "//assets/logo.svg",
+    "Image": "/assets/logo.svg",
     "occupation": "Groseda"
   },
   {
     "name": "h",
-    "Image": "//assets/forrest-gump-quote.webp",
+    "Image": "/assets/forrest-gump-quote.webp",
     "occupation": "d"
   }
 ]
