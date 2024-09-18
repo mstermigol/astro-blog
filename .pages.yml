@@ -37,9 +37,12 @@ content:
         - name: name
           label: Name
           type: string
+          required: true
         - name: age
           label: Age
           type: number
+          required: true
         - name: occupation
           label: Occupation
           type: string
+          required: true
