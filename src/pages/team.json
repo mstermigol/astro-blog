@@ -1,17 +1,17 @@
 [
   {
     "name": "Hola",
-    "age": 16,
+    "Image": "//astropaper-og.jpg",
     "occupation": "Miguel"
   },
   {
     "name": "Camila",
-    "age": 66,
+    "Image": "//assets/logo.svg",
     "occupation": "Groseda"
   },
   {
     "name": "h",
-    "age": 0,
+    "Image": "//assets/forrest-gump-quote.webp",
     "occupation": "d"
   }
 ]
