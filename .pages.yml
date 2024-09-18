@@ -30,7 +30,7 @@ content:
       - { name: body, label: Body, type: rich-text, options: { input: public/assets, output: /assets } }
   - name: team
     label: Team
-    path: team.json
+    path: src/pages/team.json
     type: file
     list: true
     fields:
