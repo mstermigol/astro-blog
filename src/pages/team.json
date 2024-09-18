@@ -6,12 +6,12 @@
   },
   {
     "name": "Camila",
-    "Image": "/assets/logo.svg",
+    "Image": "src/assets/images/hola/imagen.jpg",
     "occupation": "Groseda"
   },
   {
     "name": "h",
-    "Image": "/assets/forrest-gump-quote.webp",
+    "Image": "assets/forrest-gump-quote.webp",
     "occupation": "d"
   }
 ]
