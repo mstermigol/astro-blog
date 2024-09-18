@@ -1,7 +1,11 @@
 ---
 HeroSlides:
-  bgImage: hola
-  title: adios
-  description: jjaj
-  ctaText: si
+  - bgImage: h
+    title: h
+    description: h
+    ctaText: h
+  - bgImage: a
+    title: a
+    description: a
+    ctaText: a
 ---
