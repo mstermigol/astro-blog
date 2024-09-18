@@ -38,9 +38,9 @@ content:
           label: Name
           type: string
           required: true
-        - name: age
+        - name: Image
           label: Age
-          type: number
+          type: image
           required: true
         - name: occupation
           label: Occupation
