@@ -44,6 +44,7 @@ content:
           required: true
           options:
             path: src/assets/images/hola
+            extensions: [ jpg, jpeg, png ]
         - name: occupation
           label: Occupation
           type: string
