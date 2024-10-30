@@ -43,7 +43,7 @@ content:
           type: image
           required: true
           options:
-            path: src/assets/images/hola
+            path: src/assets/images/hola/
         - name: occupation
           label: Occupation
           type: string
