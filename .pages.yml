@@ -39,15 +39,13 @@ content:
           type: string
           required: true
         - name: Image
-          label: Age
+          label: image
           type: image
           required: true
           options:
-            {
             input: src/assets/images/hola,
             output: src/assets/images/hola,
-            path: src/assets/images/hola
-            }
+            path: src/assets/images/hola 
         - name: occupation
           label: Occupation
           type: string
