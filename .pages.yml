@@ -1,5 +1,5 @@
 media:
-  input: src/assets/images/hola
+  input: src/assets/images
   output: src/assets/images
 content:
   - name: posts
