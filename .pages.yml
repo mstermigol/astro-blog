@@ -43,8 +43,11 @@ content:
           type: image
           required: true
           options:
-            path: src/assets/
-            extensions: [ jpg, jpeg, png ]
+            {
+            input: src/assets/images/hola,
+            output: src/assets/images/hola,
+            path: src/assets/images/hola
+            }
         - name: occupation
           label: Occupation
           type: string
